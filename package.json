@@ -1,0 +1,24 @@
+{
+  "name": "tmp-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-file-include": "latest",
+    "gulp-less": "latest",
+    "gulp-pug": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "uikit": "latest"
+  }
+}
